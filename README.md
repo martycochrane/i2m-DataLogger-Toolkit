@@ -8,7 +8,7 @@ This toolkit is a very early version of something similar to what you can find i
 
 |MPC Racing Yamaha R1           |Triple M Racing Ducati V4R     |
 |-------------------------------|-------------------------------|
-| ![Yamaha](/img/yamaha.JPG) | ![Ducati](/img/ducati.JPG) |
+| ![Yamaha](/img/yamaha.JPG) | ![Ducati](/img/ducati.jpg) |
 
 
 ## Getting Started with the toolkit
