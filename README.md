@@ -24,3 +24,9 @@ Make sure you export the data for the lap or session you want to analyis using a
 It's important to set the variable names to the same as the file name you've exported and also the name of the sensors you use for the front and rear suspesnion
 
 ![Variable Names](/img/variableNames.png) 
+
+### Histograms
+
+This is still in it's early version as some more data filtering and cleaning will be needed to make it more meaningful but for now here's the overview
+
+![Histograms](/img/histogram.png) 
