@@ -25,6 +25,12 @@ It's important to set the variable names to the same as the file name you've exp
 
 ![Variable Names](/img/variableNames.png) 
 
+### The circuits JSON file
+
+Here you will find GPS co-ordinates for the finish line at different circuits around the world. If yours is missing then please add it and create a pull request to this repository so we can keep it updated
+
+![Circuits](/img/circuitsJSON.png) 
+
 ### Histograms
 
 This is still in it's early version as some more data filtering and cleaning will be needed to make it more meaningful but for now here's the overview

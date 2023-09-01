@@ -1,14 +1,68 @@
 {
+  "alastaro": {
+    "FinishLine": {
+      "latitude": 60.9762265,
+      "longitude": 22.6580859
+    }
+  },
+  "albacete": {
+    "FinishLine": {
+      "latitude": 39.0051590,
+      "longitude": -1.7956130
+    }
+  },
+  "anderstorp": {
+    "FinishLine": {
+      "latitude": 57.2615090,
+      "longitude": 13.5993440
+    }
+  },
+  "assen": {
+    "FinishLine": {
+      "latitude": 52.9629295,
+      "longitude": 6.5252761
+    }
+  },
+  "barcelona": {
+    "FinishLine": {
+      "latitude": 41.5699610,
+      "longitude": -2.2609611
+    }
+  },
+  "cadwell": {
+    "FinishLine": {
+      "latitude": 53.3107205,
+      "longitude": -0.0591005
+    }
+  },
   "cartagena": {
     "FinishLine": {
       "latitude": 37.644478,
       "longitude": -1.035202
     }
   },
-  "rudskogen": {
+  "donington": {
     "FinishLine": {
-      "latitude": 37.644478,
-      "longitude": -1.035202
+      "latitude": 52.8297521,
+      "longitude": -1.3784046
+    }
+  },
+  "hochenheim": {
+    "FinishLine": {
+      "latitude": 49.3267923,
+      "longitude": 8.5665397
+    }
+  },
+  "jerez": {
+    "FinishLine": {
+      "latitude": 36.7096740,
+      "longitude": -6.0324950
+    }
+  },
+  "mantorp": {
+    "FinishLine": {
+      "latitude": 58.3691120,
+      "longitude": 15.2837690
     }
   }
 }
