@@ -31,6 +31,12 @@ Here you will find GPS co-ordinates for the finish line at different circuits ar
 
 ![Circuits](/img/circuitsJSON.png) 
 
+### Fastest Lap Circuit Trace
+
+Unfortunately i2m only let's you export a full session and not individual laps. You will see in some of the examples a filtering of each lap and then removing everything but a certain lap. In the speed trace case it's the fastest lap shown
+
+![Fastest Lap](/img/fastestLap.png) 
+
 ### Histograms
 
 This is still in it's early version as some more data filtering and cleaning will be needed to make it more meaningful but for now here's the overview
